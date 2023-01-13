@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ketpar66
+- 👋 Hi, I’m Ketan
 - 👀 I’m interested in machine learning and data engineering
 - 🌱 I currently finished Udacity's Data Engineering Nanodegree this January
 - 📫 How to reach me https://www.linkedin.com/in/ketanparmar2020/
